@@ -12,7 +12,10 @@ module.exports = {
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
       colors: {
-        primary: '#3b82f6',
+        primary: '#f472b6',
+        ink: '#030303',
+        surface: '#0a0a0c',
+        elevated: '#121218',
       },
     },
   },
